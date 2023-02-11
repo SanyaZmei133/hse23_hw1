@@ -5,3 +5,6 @@
 ![epiblast_report2](data/epiblast_read2.png)
 ![icm_repor1](data/icm_read1.png)
 ![icm_repor2](data/icm_read2.png)
+![8cell](data/распределение_8cell.png)
+![epiblast](data/распределение_epiblast.png)
+![icm](data/распределение_icm.png)
